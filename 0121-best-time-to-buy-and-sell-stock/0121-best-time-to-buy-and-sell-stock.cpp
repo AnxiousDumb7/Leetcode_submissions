@@ -6,14 +6,12 @@ public:
         int curr_profit = 0;
         int max_profit = 0;
 
-        for(int i = 1; i < n; i++){
-            
-            if(prices[i] < buy_price)
+        for (int i = 1; i < n; i++) {
+
+            if (prices[i] < buy_price)
                 buy_price = prices[i];
 
-            
             curr_profit = prices[i] - buy_price;
-            
             max_profit = max(max_profit, curr_profit);
         }
         return max_profit;
