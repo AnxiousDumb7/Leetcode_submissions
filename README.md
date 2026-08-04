@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [3731-find-missing-elements](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/3731-find-missing-elements/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [3731-find-missing-elements](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/3731-find-missing-elements/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [3731-find-missing-elements](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/3731-find-missing-elements/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
