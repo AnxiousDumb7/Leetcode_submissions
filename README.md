@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0141-linked-list-cycle](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0141-linked-list-cycle/) | Easy |
 | [3731-find-missing-elements](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/3731-find-missing-elements/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
@@ -76,5 +78,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0141-linked-list-cycle/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0876-middle-of-the-linked-list/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
