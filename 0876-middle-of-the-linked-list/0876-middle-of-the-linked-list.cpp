@@ -11,28 +11,41 @@
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
-        int count = 0;
-        ListNode* temp = head;
+    //    int count = 0;
+    //    ListNode* temp = head;
 
-        while(temp != nullptr){
-            count++;
-            temp = temp->next;
+    //    while(temp != nullptr){
+    //        count++;
+    //        temp = temp->next;
+    //    }
+    //    // we have count now
+    //    int pos = (count / 2) + 1;
+
+    //    // return that pos node
+    //    return posNode(head, pos);
+ //   }
+    //ListNode* posNode(ListNode* head,int pos){
+    //    ListNode* temp = head;
+    //    //can't compare pointer with int hence
+    //    int count = 1;
+
+    //    while(count < pos){
+    //        temp = temp->next;
+    //        count++;
+    //    }
+    //    return temp;
+
+
+    /************* OPTIMAL SOLUTION *******************/
+    /************* Second approach = fast ans slow pointers *******************/
+    
+        ListNode* slow = head;
+        ListNode* fast = head;
+
+        while(fast != nullptr && fast->next != nullptr){
+            slow = slow->next;
+            fast = fast->next->next;
         }
-        // we have count now
-        int pos = (count / 2) + 1;
-
-        // return that pos node
-        return posNode(head, pos);
-    }
-    ListNode* posNode(ListNode* head,int pos){
-        ListNode* temp = head;
-        //can't compare pointer with int hence
-        int count = 1;
-
-        while(count < pos){
-            temp = temp->next;
-            count++;
-        }
-        return temp;
+    return slow;
     }
 };
