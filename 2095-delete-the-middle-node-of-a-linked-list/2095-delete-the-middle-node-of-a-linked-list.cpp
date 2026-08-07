@@ -15,15 +15,16 @@ public:
         ListNode* fast = head;
         ListNode* prev = nullptr;
 
-        if(head->next == nullptr)
+        if(head == nullptr || head->next == nullptr)
             return nullptr;
 
         while(fast != nullptr && fast->next != nullptr){
-            if(prev == nullptr)
-                prev = head;
-            else{
-                prev = prev->next;
-            }
+            //if(prev == nullptr)
+            //    prev = head;
+            //else{
+            //    prev = prev->next;
+            //}
+            prev = slow;
             slow = slow->next;
             fast = fast->next->next;
         }
