@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0002-add-two-numbers/) | Medium |
+| [0050-powx-n](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0050-powx-n/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 ## Array
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0025-reverse-nodes-in-k-group](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0050-powx-n](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Two Pointers
