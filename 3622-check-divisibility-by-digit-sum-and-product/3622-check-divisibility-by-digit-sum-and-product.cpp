@@ -11,10 +11,9 @@ public:
             product *= d;
             n /= 10;
         }
-        int addition = sum + product;
-        if(og % addition == 0)
+        
+        if(og % (sum + product) == 0)
             return true;
-        else
-            return false;
+        return false;
     }
 };
